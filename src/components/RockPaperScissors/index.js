@@ -144,14 +144,14 @@ class RockPaperScissors extends Component {
           <GameUserOptionContainer>
             <GameParticipantText>You</GameParticipantText>
             <GameParticipantChoiceImage
-              src={userChoiceObject.image}
+              src={userChoiceObject.imageUrl}
               alt="your choice"
             />
           </GameUserOptionContainer>
           <GameUserOptionContainer>
             <GameParticipantText>Other</GameParticipantText>
             <GameParticipantChoiceImage
-              src={gameChoiceObject.image}
+              src={gameChoiceObject.imageUrl}
               alt="opponent choice"
             />
           </GameUserOptionContainer>
@@ -182,14 +182,14 @@ class RockPaperScissors extends Component {
           <GameUserOptionContainer>
             <GameParticipantText>You</GameParticipantText>
             <GameParticipantChoiceImage
-              src={userChoiceObject.image}
+              src={userChoiceObject.imageUrl}
               alt="your choice"
             />
           </GameUserOptionContainer>
           <GameUserOptionContainer>
             <GameParticipantText>Other</GameParticipantText>
             <GameParticipantChoiceImage
-              src={gameChoiceObject.image}
+              src={gameChoiceObject.imageUrl}
               alt="opponent choice"
             />
           </GameUserOptionContainer>
@@ -220,14 +220,14 @@ class RockPaperScissors extends Component {
           <GameUserOptionContainer>
             <GameParticipantText>You</GameParticipantText>
             <GameParticipantChoiceImage
-              src={userChoiceObject.image}
+              src={userChoiceObject.imageUrl}
               alt="your choice"
             />
           </GameUserOptionContainer>
           <GameUserOptionContainer>
             <GameParticipantText>Other</GameParticipantText>
             <GameParticipantChoiceImage
-              src={gameChoiceObject.image}
+              src={gameChoiceObject.imageUrl}
               alt="opponent choice"
             />
           </GameUserOptionContainer>
